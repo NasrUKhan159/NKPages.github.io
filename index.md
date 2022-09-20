@@ -17,6 +17,17 @@
 
 ---
 
+### Music Analytics
+
+[Project 1 Title](/sample_page)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+---
+
+### Data Science and ML in Economics, Finance and Business
+
+---
+
 ### Academic Work
 
 - [Project 1 Title](http://example.com/)
@@ -26,12 +37,6 @@
 - [Project 5 Title](http://example.com/)
 
 ---
-
-### Data Science and ML in Economics, Finance and Business
-
----
-
-
 
 
 ---
