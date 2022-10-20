@@ -4,7 +4,7 @@
 
 ### Nasr's Musings on Tennis
 
-[Nasr's Musings on Tennis 1: A domain-specific application of unsupervised learning algorithms to tennis statistics](/sample_page)
+[Nasr's Musings on Tennis 1: A domain-specific application of unsupervised learning algorithms to tennis statistics](/Nasr's Musings on Tennis 1)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
